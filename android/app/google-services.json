@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583641181971",
+    "firebase_url": "https://play--video-200806.firebaseio.com",
+    "project_id": "play-youtube-video-200806",
+    "storage_bucket": "play-youtube-video-200806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583641181971:android:400ee04707ff70fbc234e6",
+        "android_client_info": {
+          "package_name": "com.example.calendar_events_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583641181971-jt2mgj667uit1qokd92lv3pvh9qkkglo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9ZMOSYSCI7sLs2fMiCG7GDqiF-1BuDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583641181971-jt2mgj667uit1qokd92lv3pvh9qkkglo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
